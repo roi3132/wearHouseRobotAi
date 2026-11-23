@@ -1,0 +1,11 @@
+WAREHOUSE / TOP-DOWN VIEW
+WAREHOUSE NOTICE
+Keep aisles clear.
+Zone B is restricted.
+blue_package
+green_crate
+yellow_barrel
+ZONE B / RESTRICTED
+OBSTACLE
+ROBOT
+HOME / START

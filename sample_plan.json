@@ -1,0 +1,9 @@
+{
+  "scene_summary": "Synthetic local example: the blue package is outside Zone B.",
+  "confidence": 1.0,
+  "plan": [
+    {"action": "move_to", "target": "blue_package", "rationale": "Approach the assigned target."},
+    {"action": "inspect", "target": "blue_package", "rationale": "Inspect the nearby target."},
+    {"action": "return_home", "target": "blue_package", "rationale": "Return to the starting position."}
+  ]
+}
